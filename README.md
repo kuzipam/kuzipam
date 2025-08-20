@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kuzipam
 - 👀 I’m interested in learning to program
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Best top laner
 
 <!---
 kuzipam/kuzipam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
